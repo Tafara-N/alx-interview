@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 
 """
-Function calculates the fewest number of operations needed to result in exactly `n` `H` characters in the file
+Function calculates the fewest number of operations needed to result in exactly
+`n` `H` characters in the file
 """
 
 import math
@@ -48,5 +49,5 @@ def minOperations(n):
     if not isinstance(n, int) or n < 2:
         return 0
     else:
-        numOperations = sum(factors(n))
-        return int(numOperations)
+        number_of_operations = sum(factors(n))
+        return int(number_of_operations)

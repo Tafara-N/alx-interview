@@ -11,8 +11,8 @@ Handling keyboard interruption (CTRL + C) using signal handling in Python.
 Python Signal Handling (/rltoken/1nDqPJe80rSD-NMulzjJBw)
 
 3. **Data Processing:**
-- Parsing strings to extract specific data points.
-- Aggregating data to compute summaries.
+    - Parsing strings to extract specific data points.
+    - Aggregating data to compute summaries.
 
 4. **Regular Expressions:**
     - Using regular expressions to validate the format of each line.

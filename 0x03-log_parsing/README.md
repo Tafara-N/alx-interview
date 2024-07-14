@@ -44,7 +44,8 @@ Your code should use the PEP 8 style (version 1.7.x)
 All your files must be executable
 The length of your files will be tested using wc
 
-Tasks
+## Tasks
+
 0. Log parsing mandatory
 
 Write a script that reads stdin line by line and computes metrics:

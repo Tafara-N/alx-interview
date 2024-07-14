@@ -17,8 +17,8 @@ Using regular expressions to validate the format of each line.
 Python Regular Expressions (/rltoken/ZsD-YLisfaHFeMT_sZxX1Q)
 
 5. **Dictionaries in Python:**
-Using dictionaries to count occurrences of status codes and accumulate file sizes.
-Python Dictionaries (/rltoken/JM-RpavKkb8yanxWEnNYJw)
+- Using dictionaries to count occurrences of status codes and accumulate file sizes.
+- [Python Dictionaries]()
 
 6. **Exception Handling:**
     - Handling possible exceptions that may arise during file reading and data processing.

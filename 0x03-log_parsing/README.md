@@ -12,9 +12,10 @@ Python Signal Handling (/rltoken/1nDqPJe80rSD-NMulzjJBw)
 3. Data Processing:
 Parsing strings to extract specific data points.
 Aggregating data to compute summaries.
-4. Regular Expressions:
-Using regular expressions to validate the format of each line.
-Python Regular Expressions (/rltoken/ZsD-YLisfaHFeMT_sZxX1Q)
+
+4. **Regular Expressions:**
+- Using regular expressions to validate the format of each line.
+- [Python Regular Expressions]()
 
 5. **Dictionaries in Python:**
     - Using dictionaries to count occurrences of status codes and accumulate file sizes.

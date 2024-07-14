@@ -61,7 +61,7 @@ code
 format: <status code>: <number>
 status codes should be printed in ascending order
 
-Warning: In this sample, you will have random value - it’s normal to not have the same output as this one.
+**Warning:** In this sample, you will have random value - it’s normal to not have the same output as this one.
 
 ```bash
 alexa@ubuntu:~/0x03-log_parsing$ cat 0-generator.py

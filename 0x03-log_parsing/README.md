@@ -20,10 +20,9 @@ Using dictionaries to count occurrences of status codes and accumulate file size
 Python Dictionaries (/rltoken/JM-RpavKkb8yanxWEnNYJw)
 6. Exception Handling:
 Handling possible exceptions that may arise during file reading and data processing.
-Python Exceptions (/rltoken/OA2PlryrYA2gyCCKIsdgUw)
+- [Python Exceptions]()
 
-By studying these concepts and utilizing the resources provided, you will be well-prepared to tackle the log
-parsing project, effectively handling data streams, parsing log entries, and computing metrics based on the processed data.
+By studying these concepts and utilizing the resources provided, you will be well-prepared to tackle the log parsing project, effectively handling data streams, parsing log entries, and computing metrics based on the processed data.
 
 # Additional Resources
 - [Mock Technical Interview]()

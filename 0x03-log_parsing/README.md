@@ -14,8 +14,8 @@ Parsing strings to extract specific data points.
 Aggregating data to compute summaries.
 
 4. **Regular Expressions:**
-- Using regular expressions to validate the format of each line.
-- [Python Regular Expressions]()
+    - Using regular expressions to validate the format of each line.
+    - [Python Regular Expressions]()
 
 5. **Dictionaries in Python:**
     - Using dictionaries to count occurrences of status codes and accumulate file sizes.

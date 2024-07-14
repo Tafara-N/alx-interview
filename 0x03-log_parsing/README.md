@@ -23,10 +23,10 @@ Handling possible exceptions that may arise during file reading and data process
 Python Exceptions (/rltoken/OA2PlryrYA2gyCCKIsdgUw)
 
 By studying these concepts and utilizing the resources provided, you will be well-prepared to tackle the log
-parsing project, effectively handling data streams, parsing log entries, and computing metrics based on the
-processed data.
-Additional Resources
-Mock Technical Interview (/rltoken/VlOaXKkbecRYdnTLaLU1lg)
+parsing project, effectively handling data streams, parsing log entries, and computing metrics based on the processed data.
+
+# Additional Resources
+- [Mock Technical Interview]()
 
 # Requirements
 

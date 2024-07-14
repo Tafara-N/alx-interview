@@ -5,8 +5,8 @@ a list of concepts and resources that you might find useful:
 Concepts Needed:
 
 1. **File I/O in Python:**
-- Understand how to read from `sys.stdin` line by line.
-- [Python Input and Output]()
+    - Understand how to read from `sys.stdin` line by line.
+    - [Python Input and Output]()
 
 2. **Signal Handling in Python:**
     - Handling keyboard interruption (CTRL + C) using signal handling in Python.

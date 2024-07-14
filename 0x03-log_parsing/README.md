@@ -6,7 +6,8 @@ Concepts Needed:
 1. File I/O in Python:
 Understand how to read from sys.stdin line by line.
 Python Input and Output (/rltoken/f7U2MDsBT_rd9AfUUaqVnQ)
-2. Signal Handling in Python:
+
+2. **Signal Handling in Python:**
 Handling keyboard interruption (CTRL + C) using signal handling in Python.
 Python Signal Handling (/rltoken/1nDqPJe80rSD-NMulzjJBw)
 

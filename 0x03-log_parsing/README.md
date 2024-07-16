@@ -8,7 +8,7 @@ For the “0x03. Log Parsing” project, you will need to apply your knowledge o
 
 2. **Signal Handling in Python:**
     - Handling keyboard interruption (CTRL + C) using signal handling in Python.
-    - [Python Signal Handling]()
+    - [Python Signal Handling](https://intranet.alxswe.com/rltoken/1nDqPJe80rSD-NMulzjJBw)
 
 3. **Data Processing:**
     - Parsing strings to extract specific data points.

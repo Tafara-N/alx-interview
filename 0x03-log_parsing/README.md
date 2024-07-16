@@ -24,7 +24,7 @@ For the “0x03. Log Parsing” project, you will need to apply your knowledge o
 
 6. **Exception Handling:**
     - Handling possible exceptions that may arise during file reading and data processing.
-    - [Python Exceptions]()
+    - [Python Exceptions](https://intranet.alxswe.com/rltoken/OA2PlryrYA2gyCCKIsdgUw)
 
 By studying these concepts and utilizing the resources provided, you will be well-prepared to tackle the log parsing project, effectively handling data streams, parsing log entries, and computing metrics based on the processed data.
 

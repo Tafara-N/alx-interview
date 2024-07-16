@@ -16,7 +16,7 @@ For the “0x03. Log Parsing” project, you will need to apply your knowledge o
 
 4. **Regular Expressions:**
     - Using regular expressions to validate the format of each line.
-    - [Python Regular Expressions]()
+    - [Python Regular Expressions](https://intranet.alxswe.com/rltoken/ZsD-YLisfaHFeMT_sZxX1Q)
 
 5. **Dictionaries in Python:**
     - Using dictionaries to count occurrences of status codes and accumulate file sizes.

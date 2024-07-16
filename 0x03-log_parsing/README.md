@@ -4,7 +4,7 @@ For the “0x03. Log Parsing” project, you will need to apply your knowledge o
 
 1. **File I/O in Python:**
     - Understand how to read from `sys.stdin` line by line.
-    - [Python Input and Output]()
+    - [Python Input and Output](https://intranet.alxswe.com/rltoken/f7U2MDsBT_rd9AfUUaqVnQ)
 
 2. **Signal Handling in Python:**
     - Handling keyboard interruption (CTRL + C) using signal handling in Python.

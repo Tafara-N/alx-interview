@@ -20,7 +20,7 @@ For the “0x03. Log Parsing” project, you will need to apply your knowledge o
 
 5. **Dictionaries in Python:**
     - Using dictionaries to count occurrences of status codes and accumulate file sizes.
-    - [Python Dictionaries]()
+    - [Python Dictionaries](https://intranet.alxswe.com/rltoken/JM-RpavKkb8yanxWEnNYJw)
 
 6. **Exception Handling:**
     - Handling possible exceptions that may arise during file reading and data processing.

@@ -7,7 +7,8 @@ Script reads stdin line by line and computes metrics.
 import sys
 
 
-line_count, total_file_size = 0
+line_count = 0
+total_file_size = 0
 
 status_code = {
     "200": 0, "301": 0,
@@ -35,7 +36,7 @@ try:
 
                 for key in sorted_keys:
                     value = status_code[key]
-                    
+
                     if value != 0:
                         print('{}: {}'.format(key, value))
                     line_count = 0

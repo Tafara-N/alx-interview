@@ -5,7 +5,8 @@ For the “0x04. UTF-8 Validation” project, you will need to apply your knowle
 1. **Bitwise Operations in Python:**
 - Understanding how to manipulate bits in Python, including operations like AND ( & ), OR ( | ), XOR ( ^ ), NOT ( ~ ), shifts ( << , >> ).
 - [Python Bitwise Operators]()
-2. UTF-8 Encoding Scheme:
+
+2. **UTF-8 Encoding Scheme:**
 Familiarity with the UTF-8 encoding rules, including how characters are encoded into one or
 more bytes.
 Understanding the patterns that represent a valid UTF-8 encoded character.

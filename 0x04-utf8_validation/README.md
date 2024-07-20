@@ -20,8 +20,9 @@ Handling the least significant bits (LSB) of integers to simulate byte data.
 4. List Manipulation in Python:
 Iterating through lists, accessing list elements, and understanding list comprehensions.
 Python Lists (/rltoken/TaN91MgmOL80GeOGvmldIw)
-5. Boolean Logic:
-Applying logical operations to make decisions within the program.
+
+5. **Boolean Logic:**
+- Applying logical operations to make decisions within the program.
 
 By studying these concepts and utilizing the resources provided, you will be equipped to tackle the UTF-8 validation project, effectively applying bitwise operations and logical reasoning to determine the validity of UTF-8 encoded data.
 

@@ -6,7 +6,11 @@ A method that determines if a given data set represents a valid UTF-8 encoding
 
 def validUTF8(data):
     """
-    A method that determines if a given data set represents a valid UTF-8 encoding
+    Parameters
+        data: list of integers
+
+    Return
+        True if data is a valid UTF-8 encoding, else False
     """
 
     bytes = 0

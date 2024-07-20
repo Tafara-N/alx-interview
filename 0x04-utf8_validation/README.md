@@ -12,7 +12,8 @@ For the “0x04. UTF-8 Validation” project, you will need to apply your knowle
 - UTF-8 Wikipedia]()
 - Characters, Symbols, and the Unicode Miracle]()
 - The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets]()
-3. Data Representation:
+
+3. **Data Representation:**
 How to represent and work with data at the byte level.
 Handling the least significant bits (LSB) of integers to simulate byte data.
 

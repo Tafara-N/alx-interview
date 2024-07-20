@@ -55,14 +55,8 @@ The data set can contain multiple characters
 The data will be represented by a list of integers
 Each integer represents 1 byte of data, therefore you only need to handle the 8 least significant bits
 of each integer
-Score: 78.57% (Checks completed: 78.57%)
 
-
-
-(/)
-
-Copyright © 2024 ALX, All rights reserved.
-
+```bash
 carrie@ubuntu:~/0x04-utf8_validation$ cat 0-main.py
 #!/usr/bin/python3
 """

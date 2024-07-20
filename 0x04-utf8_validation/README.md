@@ -14,8 +14,8 @@ For the “0x04. UTF-8 Validation” project, you will need to apply your knowle
 - The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets]()
 
 3. **Data Representation:**
-How to represent and work with data at the byte level.
-Handling the least significant bits (LSB) of integers to simulate byte data.
+    - How to represent and work with data at the byte level.
+    - Handling the least significant bits (LSB) of integers to simulate byte data.
 
 4. **List Manipulation in Python:**
     - Iterating through lists, accessing list elements, and understanding list comprehensions.

@@ -28,7 +28,7 @@ validation project, effectively applying bitwise operations and logical reasonin
 UTF-8 encoded data.
 
 # Additional Resource
-Mock Technical Interview (/rltoken/X1lZqipeyegt8pbQ9aXSFQ)
+- [Mock Technical Interview]()
 
 # Requirements
 

@@ -19,7 +19,7 @@ How to represent and work with data at the byte level.
 Handling the least significant bits (LSB) of integers to simulate byte data.
 4. List Manipulation in Python:
 Iterating through lists, accessing list elements, and understanding list comprehensions.
-Python Lists (/rltoken/TaN91MgmOL80GeOGvmldIw)
+- [Python Lists]()
 
 5. **Boolean Logic:**
     - Applying logical operations to make decisions within the program.

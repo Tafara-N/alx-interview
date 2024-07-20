@@ -76,14 +76,16 @@ print(validUTF8(data))
 data = [229, 65, 127, 256]
 print(validUTF8(data))
 carrie@ubuntu:~/0x04-utf8_validation$
+```
 
+```bash
 carrie@ubuntu:~/0x04-utf8_validation$ ./0-main.py
 True
 True
 False
 carrie@ubuntu:~/0x04-utf8_validation$
+```
 
- Done? Check your code Ask for a new correction QA Review
 Repo:
 GitHub repository: alx-interview
 Directory: 0x04-utf8_validation

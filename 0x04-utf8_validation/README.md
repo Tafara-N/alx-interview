@@ -17,9 +17,10 @@ Unicode and Character Sets (/rltoken/9EwaXVds22dSK3IvF5nNCA)
 3. Data Representation:
 How to represent and work with data at the byte level.
 Handling the least significant bits (LSB) of integers to simulate byte data.
+
 4. **List Manipulation in Python:**
-- Iterating through lists, accessing list elements, and understanding list comprehensions.
-- [Python Lists]()
+    - Iterating through lists, accessing list elements, and understanding list comprehensions.
+    - [Python Lists]()
 
 5. **Boolean Logic:**
     - Applying logical operations to make decisions within the program.

@@ -7,13 +7,11 @@ For the “0x04. UTF-8 Validation” project, you will need to apply your knowle
 - [Python Bitwise Operators]()
 
 2. **UTF-8 Encoding Scheme:**
-Familiarity with the UTF-8 encoding rules, including how characters are encoded into one or
-more bytes.
-Understanding the patterns that represent a valid UTF-8 encoded character.
-UTF-8 Wikipedia (/rltoken/oqFi6P1hNvp9aSuNv---IQ)
-Characters, Symbols, and the Unicode Miracle (/rltoken/d--jVK8sBSlhkosu7pFzdw)
-The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About
-Unicode and Character Sets (/rltoken/9EwaXVds22dSK3IvF5nNCA)
+- Familiarity with the UTF-8 encoding rules, including how characters are encoded into one or more bytes.
+- Understanding the patterns that represent a valid UTF-8 encoded character.
+- UTF-8 Wikipedia (/rltoken/oqFi6P1hNvp9aSuNv---IQ)
+- Characters, Symbols, and the Unicode Miracle (/rltoken/d--jVK8sBSlhkosu7pFzdw)
+- The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (/rltoken/9EwaXVds22dSK3IvF5nNCA)
 3. Data Representation:
 How to represent and work with data at the byte level.
 Handling the least significant bits (LSB) of integers to simulate byte data.

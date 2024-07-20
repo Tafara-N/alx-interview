@@ -44,8 +44,9 @@ A README.md file, at the root of the folder of the project, is mandatory
 Your code should use the PEP 8 style (version 1.7.x)
 All your files must be executable
 
-Tasks
-0. UTF-8 Validation mandatory
+## Tasks
+
+### 0. UTF-8 Validation mandatory
 
 Write a method that determines if a given data set represents a valid UTF-8 encoding.
 Prototype: def validUTF8(data)

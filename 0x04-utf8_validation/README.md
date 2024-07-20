@@ -26,13 +26,9 @@ Applying logical operations to make decisions within the program.
 By studying these concepts and utilizing the resources provided, you will be equipped to tackle the UTF-8
 validation project, effectively applying bitwise operations and logical reasoning to determine the validity of
 UTF-8 encoded data.
-Additional Resource
+
+# Additional Resource
 Mock Technical Interview (/rltoken/X1lZqipeyegt8pbQ9aXSFQ)
- Weight: 1
-
-
-
-(/)
 
 # Requirements
 

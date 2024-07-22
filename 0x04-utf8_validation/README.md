@@ -19,7 +19,7 @@ For the “0x04. UTF-8 Validation” project, you will need to apply your knowle
 
 4. **List Manipulation in Python:**
     - Iterating through lists, accessing list elements, and understanding list comprehensions.
-    - [Python Lists]()
+    - [Python Lists](https://intranet.alxswe.com/rltoken/TaN91MgmOL80GeOGvmldIw)
 
 5. **Boolean Logic:**
     - Applying logical operations to make decisions within the program.

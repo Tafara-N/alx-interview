@@ -26,7 +26,9 @@ def validUTF8(data):
             if bytes == 1 or bytes > 4:
                 return False
         else:
-            if not (byte & 1 << 7 and not byte & 1 << 6):
+            if not (byte & 1 << 7 and not (byte & 1 << 6)):
                 return False
+
         bytes -= 1
+
     return bytes == 0

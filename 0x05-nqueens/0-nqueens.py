@@ -37,7 +37,8 @@ def board(size, row=0, column=[], forward_diagonal=[], backward_diagonal=[]):
 
     if row < size:
         for i in range(size):
-            if i not in column and row + i not in forward_diagonal and row - i not in backward_diagonal:
+            if i not in column and row + i not in forward_diagonal and \
+                  row - i not in backward_diagonal:
                 yield from board(
                     size, row + 1, column + [i],
                     forward_diagonal + [row + i], backward_diagonal + [row - i]

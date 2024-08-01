@@ -5,10 +5,11 @@ Backtracking Algorithms:
 
 Understanding how backtracking algorithms work to explore all potential solutions to a problem and backtrack when a solution cannot be completed.
 Backtracking Introduction
-Recursion:
 
-Using recursive functions to implement backtracking algorithms.
-Recursion in Python
+**2. Recursion:**
+
+    - Using recursive functions to implement backtracking algorithms.
+    - [Recursion in Python](https://intranet.alxswe.com/rltoken/X1vaNXgy_pPyvKfOJm90XQ)
 
 **3. List Manipulations in Python:**
 

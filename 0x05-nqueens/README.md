@@ -2,22 +2,22 @@ The “0x05. N queens” project is a classic problem in computer science and ma
 
 # Concepts Needed:
 
-**1. Backtracking Algorithms:**
+1. **Backtracking Algorithms:**
 
     - Understanding how backtracking algorithms work to explore all potential solutions to a problem and backtrack when a solution cannot be completed.
     - [Backtracking Introduction](https://intranet.alxswe.com/rltoken/Gbaz9HkwvR9FX4zjBt9dSw)
 
-**2. Recursion:**
+2. **Recursion:**
 
     - Using recursive functions to implement backtracking algorithms.
     - [Recursion in Python](https://intranet.alxswe.com/rltoken/X1vaNXgy_pPyvKfOJm90XQ)
 
-**3. List Manipulations in Python:**
+3. **List Manipulations in Python:**
 
     - Creating and manipulating lists, especially to store the positions of queens on the board.
     - [Python Lists](https://intranet.alxswe.com/rltoken/P3KbYxmdtSeoJvVfr9Iv0w)
 
-**4. Python Command Line Arguments:**
+4. **Python Command Line Arguments:**
 
     - Handling command-line arguments with the `sys` module.
     - [Command Line Arguments in Python](https://intranet.alxswe.com/rltoken/2IF4V6xsY_Nq-xcGDK3Bhw)

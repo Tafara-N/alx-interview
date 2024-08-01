@@ -9,31 +9,38 @@ Recursion:
 
 Using recursive functions to implement backtracking algorithms.
 Recursion in Python
-List Manipulations in Python:
 
-Creating and manipulating lists, especially to store the positions of queens on the board.
-Python Lists
-Python Command Line Arguments:
+**3. List Manipulations in Python:**
 
-Handling command-line arguments with the sys module.
-Command Line Arguments in Python
+    - Creating and manipulating lists, especially to store the positions of queens on the board.
+    - [Python Lists](https://intranet.alxswe.com/rltoken/P3KbYxmdtSeoJvVfr9Iv0w)
+
+**4. Python Command Line Arguments:**
+
+    - Handling command-line arguments with the `sys` module.
+    - [Command Line Arguments in Python](https://intranet.alxswe.com/rltoken/2IF4V6xsY_Nq-xcGDK3Bhw)
+
 By studying these concepts and utilizing the resources provided, you will be equipped with the knowledge required to implement an efficient solution to the N queens problem using Python. This project not only tests programming and problem-solving skills but also offers an excellent opportunity to learn about algorithmic thinking and optimization techniques.
 
-Additional Resources
-Mock Interview
-Requirements
-General
-Allowed editors: vi, vim, emacs
-All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.4.3)
-All your files should end with a new line
-The first line of all your files should be exactly #!/usr/bin/python3
-A README.md file, at the root of the folder of the project, is mandatory
-Your code should use the PEP 8 style (version 1.7.*)
-All your files must be executable
+# Additional Resources
+- [Mock Interview](https://intranet.alxswe.com/rltoken/aQ3uJmGVeZa-R6B1jYTjXg)
+
+# Requirements
+
+## General
+- Allowed editors: `vi`, `vim`, `emacs`
+- All your files will be interpreted/compiled on Ubuntu 20.04 LTS using `python3` (version `3.4.3`)
+- All your files should end with a new line
+- The first line of all your files should be exactly `#!/usr/bin/python3`
+- A `README.md` file, at the root of the folder of the project, is mandatory
+- Your code should use the `PEP 8` style (version `1.7.*`)
+- All your files must be executable
 
 ## Tasks
 
 ### 0. N queens
+
+![Judit Polgar](Judit-photo1_602x433.jpg)
 
 Chess grandmaster [Judit Polgár](https://intranet.alxswe.com/rltoken/fZ1ecpPEmVL9nvkBn8WQGg), the strongest female chess player of all time
 

@@ -1,38 +1,27 @@
+#!/usr/bin/env python3
 
 """
-   Description: The N queens puzzle is the challenge of placing N non-attacking
-                queens on an N×N chessboard. Write a program that solves the N
-                queens problem.
-   Usage: nqueens N:
-          If the user called the program with the wrong number of arguments,
-          print Usage: nqueens N, followed by a new line, and exit with the
-          status 1
-   where N must be an integer greater or equal to 4:
-          If N is not an integer, print N must be a number, followed by a new
-          line, and exit with the status 1
-          If N is smaller than 4, print N must be at least 4, followed by a new
-          line, and exit with the status 1
-   The program should print every possible solution to the problem:
-          One solution per line
-          Format: see example
-          You don’t have to print the solutions in a specific order
-   You are only allowed to import the sys module
+Program that solves the `N` queens problem using a backtracking algorithm to
+place N non-attacking queens on an N x N chessboard
 """
-
 
 import sys
 
 
-def print_board(board):
-    """ print_board
-    Args:
+def chess_board(board):
+    """
+    Function prints an 8 x 8 chess board
+
+    Parameters
         board - list of list with length sys.argv[1]
     """
+
     new_list = []
+
     for i, row in enumerate(board):
         value = []
-        for j, col in enumerate(row):
-            if col == 1:
+        for j, column in enumerate(row):
+            if column == 1:
                 value.append(i)
                 value.append(j)
         new_list.append(value)
@@ -40,69 +29,80 @@ def print_board(board):
     print(new_list)
 
 
-def isSafe(board, row, col, number):
-    """ isSafe
-    Args:
+def isSafe(board, row, column, number):
+    """
+    Parameters
         board - list of list with length sys.argv[1]
         row - row to check if is safe doing a movement in this position
-        col - col to check if is safe doing a movement in this position
+        column - column to check if is safe doing a movement in this position
         number: size of the board
-    Return: True of False
+
+    Return
+        True of False
     """
 
     # Check this row in the left side
-    for i in range(col):
+    for i in range(column):
         if board[row][i] == 1:
             return False
 
     # Check upper diagonal on left side
-    for i, j in zip(range(row, -1, -1), range(col, -1, -1)):
+    for i, j in zip(range(row, -1, -1), range(column, -1, -1)):
         if board[i][j] == 1:
             return False
 
-    for i, j in zip(range(row, number, 1), range(col, -1, -1)):
+    for i, j in zip(range(row, number, 1), range(column, -1, -1)):
         if board[i][j] == 1:
             return False
 
     return True
 
 
-def solveNQUtil(board, col, number):
-    """ Auxiliar method to find the posibilities of answer
-    Args:
+def solveNQUtil(board, column, number):
+    """
+    An Auxiliar function to find the posibilities of answer
+
+    Parameters
         board - Board to resolve
-        col - Number of col
+        column - Number of column
         number - size of the board
-    Returns:
+
+    Return
         All the posibilites to solve the problem
     """
 
-    if (col == number):
-        print_board(board)
+    if (column == number):
+        chess_board(board)
         return True
-    res = False
+    result = False
+
     for i in range(number):
 
-        if (isSafe(board, i, col, number)):
+        if (isSafe(board, i, column, number)):
 
-            # Place this queen in board[i][col]
-            board[i][col] = 1
+            # Place this queen in board[i][column]
+            board[i][column] = 1
 
             # Make result true if any placement
             # is possible
-            res = solveNQUtil(board, col + 1, number) or res
+            result = solveNQUtil(board, column + 1, number) or result
 
-            board[i][col] = 0  # BACKTRACK
+            board[i][column] = 0  # BACKTRACKING
 
-    return res
+    return result
 
 
 def solve(number):
-    """ Find all the posibilities if exists
-    Args:
+    """
+    Function finds all the posibilities if exists
+
+    Parameters
         number - size of the board
     """
-    board = [[0 for i in range(number)]for i in range(number)]
+
+    board = [
+        [0 for i in range(number)]for i in range(number)
+        ]
 
     if not solveNQUtil(board, 0, number):
         return False
@@ -111,11 +111,13 @@ def solve(number):
 
 
 def validate(args):
-    """ Validate the input data to verify if the size to
-        answer is posible
-    Args:
+    """
+    Validating the input data to verify if the size to answer is possible
+
+    Parameters
         args - sys.argv
     """
+
     if (len(args) == 2):
         # Validate data
         try:
@@ -133,8 +135,5 @@ def validate(args):
 
 
 if __name__ == "__main__":
-    """ Main method to execute the application
-    """
-
     number = validate(sys.argv)
     solve(number)

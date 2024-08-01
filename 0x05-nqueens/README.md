@@ -77,4 +77,4 @@ julien@ubuntu:~/0x08. N Queens$
 **Repo:**
 - GitHub repository: `alx-interview`
 - Directory: `0x05-nqueens`
-File: `0-nqueens.py`
+- File: `0-nqueens.py`

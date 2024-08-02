@@ -86,6 +86,8 @@ Display one character name per line in the same order as the “characters” li
 endpoint
 You must use the Star wars API (/rltoken/gh_NaSUk9QlXHVoACFU-tg)
 You must use the request module
+
+```bash
 alexa@ubuntu:~/0x06$ ./0-starwars_characters.js 3
 Luke Skywalker
 C-3PO

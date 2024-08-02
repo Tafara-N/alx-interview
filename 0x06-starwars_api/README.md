@@ -22,9 +22,10 @@ interaction, and asynchronous programming in JavaScript.
     - Handling API response data asynchronously.
     - [Asynchronous Programming in JavaScript]()
 
-4. Command Line Arguments in Node.js:
-Using the process.argv array to access command-line arguments passed to a Node.js script.
-How to Parse Command Line Arguments in Node.js (/rltoken/oWBOWJZLF_D9GfOydPz6Kg)
+4. **Command Line Arguments in Node.js:**
+
+- Using the process.argv array to access command-line arguments passed to a Node.js script.
+- [How to Parse Command Line Arguments in Node.js]()
 5. Array Manipulation and Iteration:
 Iterating over arrays and manipulating data structures to format and display character names.
 JavaScript Array Methods (/rltoken/8zdG036OYYvVco_AZTExoA)

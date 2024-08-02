@@ -29,8 +29,8 @@ interaction, and asynchronous programming in JavaScript.
 
 5. **Array Manipulation and Iteration:**
 
-- Iterating over arrays and manipulating data structures to format and display character names.
-- [JavaScript Array Methods]()
+    - Iterating over arrays and manipulating data structures to format and display character names.
+    - [JavaScript Array Methods]()
 
 By familiarizing yourself with these concepts and resources, you will be able to efficiently retrieve, process,
 and display Star Wars characters from the specified movie using the Star Wars API, demonstrating your

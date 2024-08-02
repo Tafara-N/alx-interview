@@ -15,10 +15,13 @@ interaction, and asynchronous programming in JavaScript.
     - Understanding the basics of RESTful APIs and how to interact with them.
     - Parsing JSON data returned by APIs.
     - [Working with APIs in JavaScript]()
-3. Asynchronous Programming:
-Managing asynchronous operations with callbacks, promises, and async/await syntax.
-Handling API response data asynchronously.
-Asynchronous Programming in JavaScript (/rltoken/tdKMGJrRstCkXSReNfRFpQ)
+
+3. **Asynchronous Programming:**
+
+- Managing asynchronous operations with callbacks, promises, and async/await syntax.
+- Handling API response data asynchronously.
+- [Asynchronous Programming in JavaScript]()
+
 4. Command Line Arguments in Node.js:
 Using the process.argv array to access command-line arguments passed to a Node.js script.
 How to Parse Command Line Arguments in Node.js (/rltoken/oWBOWJZLF_D9GfOydPz6Kg)

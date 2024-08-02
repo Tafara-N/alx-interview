@@ -48,7 +48,7 @@ By familiarizing yourself with these concepts and resources, you will be able to
 - Your code should be `semistandard` compliant. [Rules of Standard]() + [semicolons on top](). Also as reference: [AirBnB style]()
 - All your files must be executable
 - The length of your files will be tested using `wc`
-You are not allowed to use var
+- You are not allowed to use `var`
 
 # More Info
 

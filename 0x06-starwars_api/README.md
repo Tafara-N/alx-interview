@@ -4,7 +4,8 @@ complete this project, you need to be familiar with several key concepts related
 interaction, and asynchronous programming in JavaScript.
 
 # Concepts Needed:
-1. HTTP Requests in JavaScript:
+
+1. **HTTP Requests in JavaScript:**
 Understanding how to make HTTP requests to external services using the request module or
 alternatives like fetch in Node.js.
 A Complete Guide to Making HTTP Requests in Node.js (/rltoken/iRse23lnV4gAsD9JJTJMMQ)

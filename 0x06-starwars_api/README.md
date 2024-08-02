@@ -52,7 +52,8 @@ IMaA) + semicolons on top (/rltoken/WjMvQfBMKBdsNUuHyg55Dw). Also as reference: 
 All your files must be executable
 The length of your files will be tested using wc
 You are not allowed to use var
-More Info
+
+# More Info
 
 **Install Node 10**
 

@@ -110,7 +110,7 @@ Bib Fortuna
 alexa@ubuntu:~/0x06$
 
  Done? Check your code Ask for a new correction  Get a sandbox QA Review
-Repo:
+**Repo:**
 - GitHub repository: `alx-interview`
 - Directory: `0x06-starwars_api`
 - File: `0-starwars_characters.js`

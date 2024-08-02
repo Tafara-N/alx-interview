@@ -62,7 +62,8 @@ Documentation (/rltoken/WjMvQfBMKBdsNUuHyg55Dw)
 $ sudo npm install semistandard --global
 
 Install request module and use it
-Documentation (/rltoken/BWz2gc45S-nZaxEY6GA6Zw)
+
+[Documentation]()
 
 ```bash
 $ sudo npm install request --global

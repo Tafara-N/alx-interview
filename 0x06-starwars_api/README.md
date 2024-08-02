@@ -61,7 +61,7 @@ Install semi-standard
 Documentation (/rltoken/WjMvQfBMKBdsNUuHyg55Dw)
 $ sudo npm install semistandard --global
 
-Install request module and use it
+**Install `request` module and use it**
 
 [Documentation]()
 

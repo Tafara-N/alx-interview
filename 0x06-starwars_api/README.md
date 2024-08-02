@@ -24,11 +24,12 @@ interaction, and asynchronous programming in JavaScript.
 
 4. **Command Line Arguments in Node.js:**
 
-    - Using the process.argv array to access command-line arguments passed to a Node.js script.
+    - Using the `process.argv` array to access command-line arguments passed to a Node.js script.
     - [How to Parse Command Line Arguments in Node.js]()
 
-5. Array Manipulation and Iteration:
-Iterating over arrays and manipulating data structures to format and display character names.
+5. **Array Manipulation and Iteration:**
+
+- Iterating over arrays and manipulating data structures to format and display character names.
 JavaScript Array Methods (/rltoken/8zdG036OYYvVco_AZTExoA)
 
 By familiarizing yourself with these concepts and resources, you will be able to efficiently retrieve, process,

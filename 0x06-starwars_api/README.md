@@ -2,7 +2,8 @@ The “0. Star Wars Characters” project requires you to interact with an exter
 information about Star Wars characters based on the movie ID provided as an argument. To successfully
 complete this project, you need to be familiar with several key concepts related to web programming, API
 interaction, and asynchronous programming in JavaScript.
-Concepts Needed:
+
+# Concepts Needed:
 1. HTTP Requests in JavaScript:
 Understanding how to make HTTP requests to external services using the request module or
 alternatives like fetch in Node.js.

@@ -11,9 +11,10 @@ interaction, and asynchronous programming in JavaScript.
     - [A Complete Guide to Making HTTP Requests in Node.js]()
 
 2. **Working with APIs:**
-- Understanding the basics of RESTful APIs and how to interact with them.
-- Parsing JSON data returned by APIs.
-- [Working with APIs in JavaScript]()
+
+    - Understanding the basics of RESTful APIs and how to interact with them.
+    - Parsing JSON data returned by APIs.
+    - [Working with APIs in JavaScript]()
 3. Asynchronous Programming:
 Managing asynchronous operations with callbacks, promises, and async/await syntax.
 Handling API response data asynchronously.

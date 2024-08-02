@@ -55,8 +55,11 @@ You are not allowed to use var
 More Info
 
 **Install Node 10**
+
+```bash
 $ curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
 $ sudo apt-get install -y nodejs
+```
 
 **Install semi-standard**
 

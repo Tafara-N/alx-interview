@@ -45,7 +45,7 @@ By familiarizing yourself with these concepts and resources, you will be able to
 - All your files should end with a new line
 - The first line of all your files should be exactly `#!/usr/bin/node`
 - A `README.md` file, at the root of the folder of the project, is mandatory
-- Your code should be `semistandard` compliant. [Rules of Standard]() + semicolons on top (/rltoken/WjMvQfBMKBdsNUuHyg55Dw). Also as reference: AirBnB style
+- Your code should be `semistandard` compliant. [Rules of Standard]() + [semicolons on top](). Also as reference: AirBnB style
 
 (/rltoken/Xp81RT-Sfi7uE_kNCSXunw)
 All your files must be executable

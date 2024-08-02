@@ -9,7 +9,8 @@ interaction, and asynchronous programming in JavaScript.
 
 - Understanding how to make HTTP requests to external services using the request module or alternatives like fetch in Node.js.
 - A Complete Guide to Making HTTP Requests in Node.js (/rltoken/iRse23lnV4gAsD9JJTJMMQ)
-2. Working with APIs:
+
+2. **Working with APIs:**
 Understanding the basics of RESTful APIs and how to interact with them.
 Parsing JSON data returned by APIs.
 Working with APIs in JavaScript (/rltoken/KyGS_uB68mLaP5irrH8JVA)

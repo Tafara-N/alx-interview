@@ -37,8 +37,9 @@ By familiarizing yourself with these concepts and resources, you will be able to
 # Additional Resources
 - [Mock Technical Interview]()
 
-Requirements
-General
+# Requirements
+
+## General
 Allowed editors: vi , vim , emacs
 All your files will be interpreted on Ubuntu 20.04 LTS using node (version 10.14.x)
 All your files should end with a new line

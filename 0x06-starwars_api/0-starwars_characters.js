@@ -13,7 +13,6 @@ request(filmURL + filmNum, async function (err, res, body) {
   // Parse the response body to get the list of character URLs
   const charURLList = JSON.parse(body).characters;
 
-  // Iterate through the list of character URLs
   for (const charURL of charURLList) {
     await new Promise(function (resolve, reject) {
       request(charURL, function (err, res, body) {

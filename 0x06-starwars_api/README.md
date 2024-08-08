@@ -69,7 +69,7 @@ $ sudo npm install semistandard --global
 
 **Install `request` module and use it**
 
-[Documentation]()
+[Documentation](https://intranet.alxswe.com/rltoken/BWz2gc45S-nZaxEY6GA6Zw)
 
 ```bash
 $ sudo npm install request --global

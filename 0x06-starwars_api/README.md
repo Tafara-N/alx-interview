@@ -7,8 +7,8 @@ interaction, and asynchronous programming in JavaScript.
 
 1. **HTTP Requests in JavaScript:**
 
-    - Understanding how to make HTTP requests to external services using the request module or alternatives like fetch in Node.js.
-    - [A Complete Guide to Making HTTP Requests in Node.js]()
+    - Understanding how to make HTTP requests to external services using the `request` module or alternatives like `fetch` in Node.js.
+    - [A Complete Guide to Making HTTP Requests in Node.js](https://intranet.alxswe.com/rltoken/iRse23lnV4gAsD9JJTJMMQ)
 
 2. **Working with APIs:**
 

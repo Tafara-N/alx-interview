@@ -14,7 +14,7 @@ interaction, and asynchronous programming in JavaScript.
 
     - Understanding the basics of RESTful APIs and how to interact with them.
     - Parsing JSON data returned by APIs.
-    - [Working with APIs in JavaScript]()
+    - [Working with APIs in JavaScript](https://intranet.alxswe.com/rltoken/KyGS_uB68mLaP5irrH8JVA)
 
 3. **Asynchronous Programming:**
 

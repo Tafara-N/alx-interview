@@ -35,7 +35,7 @@ interaction, and asynchronous programming in JavaScript.
 By familiarizing yourself with these concepts and resources, you will be able to efficiently retrieve, process, and display Star Wars characters from the specified movie using the Star Wars API, demonstrating your ability to work with external APIs and manage asynchronous code in JavaScript.
 
 # Additional Resources
-- [Mock Technical Interview]()
+- [Mock Technical Interview](https://intranet.alxswe.com/rltoken/du6hlPQm6qi4A7eEursNhQ)
 
 # Requirements
 

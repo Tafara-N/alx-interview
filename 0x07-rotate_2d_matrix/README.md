@@ -9,8 +9,8 @@ For the “0. Rotate 2D Matrix” project, you are tasked with implementing an i
 
 2. **In-place Operations:**
 
-- Performing operations on data without creating a copy of the data structure.
-- The importance of minimizing space complexity by modifying the matrix in place.
+    - Performing operations on data without creating a copy of the data structure.
+    - The importance of minimizing space complexity by modifying the matrix in place.
 
 3. **Matrix Transposition:**
 

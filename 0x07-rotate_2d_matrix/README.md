@@ -32,14 +32,17 @@ For the “0. Rotate 2D Matrix” project, you are tasked with implementing an i
 
     - [Data Structures (list comprehensions, nested list comprehension)](https://intranet.alxswe.com/rltoken/eZc_ELGxUgkuc4kkE_fd7Q)
     - [More on Lists](https://intranet.alxswe.com/rltoken/0ORj179giGhGe8jpcxBkXg)
-GeeksforGeeks Articles:
 
-Inplace rotate square matrix by 90 degrees
-Transpose a matrix in Single line in Python
-- TutorialsPoint:
+- **GeeksforGeeks Articles:**
 
-Python Lists for basics of list manipulation in Python.
-- By understanding these concepts and utilizing the provided resources, you will be able to approach the problem methodically, first transposing the matrix and then reversing each row to achieve a 90-degree clockwise rotation. This project not only tests your ability to manipulate 2D matrices but also challenges you to think about optimizing your solution to operate in-place, thus improving their problem-solving and algorithmic thinking skills in Python.
+- Inplace rotate square matrix by 90 degrees
+- Transpose a matrix in Single line in Python
+
+- **TutorialsPoint:**
+
+- [Python Lists](https://intranet.alxswe.com/rltoken/rFmzUTpaLGqDXjGA6D9eYw) for basics of list manipulation in Python.
+
+By understanding these concepts and utilizing the provided resources, you will be able to approach the problem methodically, first transposing the matrix and then reversing each row to achieve a 90-degree clockwise rotation. This project not only tests your ability to manipulate 2D matrices but also challenges you to think about optimizing your solution to operate in-place, thus improving their problem-solving and algorithmic thinking skills in Python.
 -
 # Additional Resources
 - [Mock Technical Interview](https://intranet.alxswe.com/rltoken/4GPWA9C2AJHtpdGxuIHEPA)

@@ -30,7 +30,7 @@ For the “0. Rotate 2D Matrix” project, you are tasked with implementing an i
 
 - **Python Official Documentation:**
 
-Data Structures (list comprehensions, nested list comprehension)
+- [Data Structures (list comprehensions, nested list comprehension)](https://intranet.alxswe.com/rltoken/eZc_ELGxUgkuc4kkE_fd7Q)
 More on Lists
 GeeksforGeeks Articles:
 

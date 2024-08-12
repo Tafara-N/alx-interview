@@ -15,10 +15,10 @@ For the “0. Rotate 2D Matrix” project, you are tasked with implementing an i
 3. **Matrix Transposition:**
 
 - Understanding the concept of transposing a matrix (swapping rows and columns).
-Implementing matrix transposition as a step in the rotation process.
+- Implementing matrix transposition as a step in the rotation process.
 
- Reversing Rows in a Matrix:
--
+4. **Reversing Rows in a Matrix:**
+
 Manipulating rows of a matrix by reversing their order as part of the rotation process.
 Nested Loops:
 

@@ -28,7 +28,7 @@ For the “0. Rotate 2D Matrix” project, you are tasked with implementing an i
 
 # Resources:
 
-Python Official Documentation:
+- **Python Official Documentation:**
 
 Data Structures (list comprehensions, nested list comprehension)
 More on Lists

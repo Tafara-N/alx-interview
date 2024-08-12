@@ -20,10 +20,11 @@ For the “0. Rotate 2D Matrix” project, you are tasked with implementing an i
 4. **Reversing Rows in a Matrix:**
 
     - Manipulating rows of a matrix by reversing their order as part of the rotation process.
-Nested Loops:
 
-Using nested loops to iterate through 2D data structures like matrices.
-Modifying elements within nested loops to achieve the desired rotation.
+5. **Nested Loops:**
+
+    - Using nested loops to iterate through 2D data structures like matrices.
+    - Modifying elements within nested loops to achieve the desired rotation.
 Resources:
 Python Official Documentation:
 

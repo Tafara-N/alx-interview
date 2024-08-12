@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# JavaScript
+node_modules/
+.nvmrc
+
+# Editor Config
+.editorconfig
+
 # Distribution / packaging
 .Python
 build/

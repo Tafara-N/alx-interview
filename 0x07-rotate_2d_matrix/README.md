@@ -31,7 +31,7 @@ For the “0. Rotate 2D Matrix” project, you are tasked with implementing an i
 - **Python Official Documentation:**
 
 - [Data Structures (list comprehensions, nested list comprehension)](https://intranet.alxswe.com/rltoken/eZc_ELGxUgkuc4kkE_fd7Q)
-More on Lists
+- [More on Lists](https://intranet.alxswe.com/rltoken/0ORj179giGhGe8jpcxBkXg)
 GeeksforGeeks Articles:
 
 Inplace rotate square matrix by 90 degrees

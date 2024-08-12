@@ -25,7 +25,9 @@ For the “0. Rotate 2D Matrix” project, you are tasked with implementing an i
 
     - Using nested loops to iterate through 2D data structures like matrices.
     - Modifying elements within nested loops to achieve the desired rotation.
-Resources:
+
+# Resources:
+
 Python Official Documentation:
 
 Data Structures (list comprehensions, nested list comprehension)

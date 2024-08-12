@@ -48,7 +48,7 @@ Python Lists for basics of list manipulation in Python.
 - Your code should use the `pycodestyle` style (version `2.8.0`)
 - You are not allowed to import any module
 - All modules and functions must be documented
-All your files must be executable
+- All your files must be executable
 
 ## Tasks
 

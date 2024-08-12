@@ -5,7 +5,7 @@ For the “0. Rotate 2D Matrix” project, you are tasked with implementing an i
 1. **Matrix Representation in Python:**
 
 - Understanding how 2D matrices are represented using lists of lists in Python.
-Accessing and modifying elements in a 2D matrix.
+- Accessing and modifying elements in a 2D matrix.
 
 2. **In-place Operations:**
 

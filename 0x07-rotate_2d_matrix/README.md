@@ -35,8 +35,8 @@ For the “0. Rotate 2D Matrix” project, you are tasked with implementing an i
 
 - **GeeksforGeeks Articles:**
 
-- Inplace rotate square matrix by 90 degrees
-- Transpose a matrix in Single line in Python
+- [Inplace rotate square matrix by 90 degrees](https://intranet.alxswe.com/rltoken/9T8w4mtiIIRDtfLSmEmrLA)
+- [Transpose a matrix in Single line in Python
 
 - **TutorialsPoint:**
 

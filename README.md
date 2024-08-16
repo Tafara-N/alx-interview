@@ -12,6 +12,9 @@
 - [Star Wars API](0x06-starwars_api/README.md)
 - [UTF8 Validation](0x04-utf8_validation/README.md)
 
+- [Requirements](#requirements)
+
+
 ## Description
 
 1. # Pascal's Triangle

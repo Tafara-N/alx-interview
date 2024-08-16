@@ -1,4 +1,20 @@
-# Pascal's Triangle
+# Python, JavaScript interview practise.
+
+## Table of Content
+- [Author](#author)
+- [Description](#description)
+- [Lockboxes](0x01-lockboxes/README.md)
+- [Log Parsing](0x03-log_parsing/README.md)
+- [Minimum Operations](0x02-minimum_operations/README.md)
+- [N-Queens](0x05-nqueens/README.md)
+- [Pascal Triangle](0x00-pascal_triangle/README.md)
+- [Rotate 2D Matrix](0x07-rotate_2d_matrix/README.md)
+- [Star Wars API](0x06-starwars_api/README.md)
+- [UTF8 Validation](0x04-utf8_validation/README.md)
+
+## Description
+
+1. # Pascal's Triangle
 
 ## Resources
 
@@ -63,7 +79,7 @@ To successfully complete this project, you should revise the following Python co
 
 By revisiting these concepts, you will be well-prepared to tackle the challenges of implementing Pascal’s Triangle in Python, applying both your mathematical understanding and programming skills to develop an efficient and effective solution.
 
-# Lockboxes
+2. # Lockboxes
 
 ### *Must Know*
 
@@ -107,7 +123,7 @@ By reviewing these concepts and utilizing these resources, you will be well-equi
 
 - [Mock Technical Interview](https://intranet.alxswe.com/rltoken/TJ0FJhWeEGolIqMpwBn7Pg)
 
-# Log Parsing
+3. # Log Parsing
 
 For the “0x03. Log Parsing” project, you will need to apply your knowledge of Python programming, focusing on parsing and processing data streams in real-time. This project involves reading from standard input (stdin), handling data in a specific format, and performing calculations based on the input data. Here’s a list of concepts and resources that you might find useful:
 
@@ -143,7 +159,7 @@ By studying these concepts and utilizing the resources provided, you will be wel
 - [Mock Technical Interview](https://intranet.alxswe.com/rltoken/VlOaXKkbecRYdnTLaLU1lg)
 
 
-# UTF-8 Validation
+4. # UTF-8 Validation
 
 For the “0x04. UTF-8 Validation” project, you will need to apply your knowledge in bitwise operations, understanding of the UTF-8 encoding scheme, and Python programming skills to validate whether a given dataset represents a valid UTF-8 encoding. Here’s a list of concepts and resources that will be helpful:
 
@@ -187,3 +203,7 @@ By studying these concepts and utilizing the resources provided, you will be equ
 - Your code should be documented
 - Your code should use the `PEP 8` style (version 1.7.x)
 - All your files must be executable
+
+## Author
+
+**Tafara Nyamhunga  - [Github](https://github.com/tafara-n) / [Twitter](https://twitter.com/tafaranyamhunga)**

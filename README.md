@@ -3,6 +3,8 @@
 ## Table of Content
 - [Author](#author)
 - [Description](#description)
+___
+
 - [Lockboxes](0x01-lockboxes/README.md)
 - [Log Parsing](0x03-log_parsing/README.md)
 - [Minimum Operations](0x02-minimum_operations/README.md)
@@ -11,6 +13,7 @@
 - [Rotate 2D Matrix](0x07-rotate_2d_matrix/README.md)
 - [Star Wars API](0x06-starwars_api/README.md)
 - [UTF8 Validation](0x04-utf8_validation/README.md)
+___
 
 - [Requirements](#requirements)
 

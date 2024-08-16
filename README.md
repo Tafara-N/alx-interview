@@ -161,7 +161,6 @@ By studying these concepts and utilizing the resources provided, you will be wel
 # Additional Resources
 - [Mock Technical Interview](https://intranet.alxswe.com/rltoken/VlOaXKkbecRYdnTLaLU1lg)
 
-
 4. # UTF-8 Validation
 
 For the “0x04. UTF-8 Validation” project, you will need to apply your knowledge in bitwise operations, understanding of the UTF-8 encoding scheme, and Python programming skills to validate whether a given dataset represents a valid UTF-8 encoding. Here’s a list of concepts and resources that will be helpful:
@@ -195,7 +194,40 @@ By studying these concepts and utilizing the resources provided, you will be equ
 ## Additional Resource
 - [Mock Technical Interview](https://intranet.alxswe.com/rltoken/X1lZqipeyegt8pbQ9aXSFQ)
 
+5. # N Queens
+
+The “0x05. N queens” project is a classic problem in computer science and mathematics, known for its application of the backtracking algorithm to place N non-attacking queens on an N×N chessboard. To successfully complete this project, you will need to understand several key concepts and have access to resources that will help you grasp the necessary algorithms and techniques.
+
+# Concepts Needed:
+
+1. **Backtracking Algorithms:**
+
+    - Understanding how backtracking algorithms work to explore all potential solutions to a problem and backtrack when a solution cannot be completed.
+    - [Backtracking Introduction](https://intranet.alxswe.com/rltoken/Gbaz9HkwvR9FX4zjBt9dSw)
+
+2. **Recursion:**
+
+    - Using recursive functions to implement backtracking algorithms.
+    - [Recursion in Python](https://intranet.alxswe.com/rltoken/X1vaNXgy_pPyvKfOJm90XQ)
+
+3. **List Manipulations in Python:**
+
+    - Creating and manipulating lists, especially to store the positions of queens on the board.
+    - [Python Lists](https://intranet.alxswe.com/rltoken/P3KbYxmdtSeoJvVfr9Iv0w)
+
+4. **Python Command Line Arguments:**
+
+    - Handling command-line arguments with the `sys` module.
+    - [Command Line Arguments in Python](https://intranet.alxswe.com/rltoken/2IF4V6xsY_Nq-xcGDK3Bhw)
+
+By studying these concepts and utilizing the resources provided, you will be equipped with the knowledge required to implement an efficient solution to the N queens problem using Python. This project not only tests programming and problem-solving skills but also offers an excellent opportunity to learn about algorithmic thinking and optimization techniques.
+
+# Additional Resources
+- [Mock Interview](https://intranet.alxswe.com/rltoken/aQ3uJmGVeZa-R6B1jYTjXg)
+
 ## Requirements
+
+## Python
 
 ### General
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -206,6 +238,45 @@ By studying these concepts and utilizing the resources provided, you will be equ
 - Your code should be documented
 - Your code should use the `PEP 8` style (version 1.7.x)
 - All your files must be executable
+
+## JavaScript
+
+## General
+- Allowed editors: `vi`, `vim`, `emacs`
+- All your files will be interpreted on Ubuntu 20.04 LTS using `node` (version `10.14.x`)
+- All your files should end with a new line
+- The first line of all your files should be exactly `#!/usr/bin/node`
+- A `README.md` file, at the root of the folder of the project, is mandatory
+- Your code should be `semistandard` compliant. [Rules of Standard](https://intranet.alxswe.com/rltoken/9P3gH5mVdJCEKL87E-IMaA) + [semicolons on top](https://intranet.alxswe.com/rltoken/WjMvQfBMKBdsNUuHyg55Dw). Also as reference: [AirBnB style](https://intranet.alxswe.com/rltoken/Xp81RT-Sfi7uE_kNCSXunw)
+- All your files must be executable
+- The length of your files will be tested using `wc`
+- You are not allowed to use `var`
+
+# More Info
+
+**Install Node 10**
+
+```bash
+$ curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+$ sudo apt-get install -y nodejs
+```
+
+**Install semi-standard**
+
+[Documentation](https://intranet.alxswe.com/rltoken/WjMvQfBMKBdsNUuHyg55Dw)
+
+```bash
+$ sudo npm install semistandard --global
+```
+
+**Install `request` module and use it**
+
+[Documentation](https://intranet.alxswe.com/rltoken/BWz2gc45S-nZaxEY6GA6Zw)
+
+```bash
+$ sudo npm install request --global
+$ export NODE_PATH=/usr/lib/node_modules
+```
 
 ## Author
 

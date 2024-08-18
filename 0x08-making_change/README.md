@@ -21,9 +21,10 @@ For the “0. Change comes from within” project, you will tackle a classic pro
 4. **Problem-Solving Strategies:**
     - Breaking down the problem into smaller, manageable sub-problems.
     - Iterative vs recursive approaches to dynamic programming.
-5. Python Programming:
-Manipulating lists and using list comprehensions.
-Implementing functions with efficient looping and conditional statements.
+
+5. **Python Programming:**
+    - Manipulating lists and using list comprehensions.
+    - Implementing functions with efficient looping and conditional statements.
 
 Resources:
 Python Official Documentation:

@@ -34,15 +34,11 @@ For the “0. Change comes from within” project, you will tackle a classic pro
 - **Python Official Documentation:**
 
     - [More Control Flow Tools(for loops, if statements)]()
-GeeksforGeeks Articles:
- Weight: 1
 
-
+- **GeeksforGeeks Articles:**
 
-(/)
-
-Coin Change | DP-7 (/rltoken/iQPaO5JhI-BtuZdm6HIVCQ)
-Greedy Algorithm to find Minimum number of Coins (/rltoken/FsBN0oeRp0FpyU8sMd4UiA)
+    - [Coin Change | DP-7]()
+    - [Greedy Algorithm to find Minimum number of Coins]()
 YouTube Tutorials:
 Dynamic Programming - Coin Change Problem (/rltoken/qFEdwwtAVyJr9NLHDZDsUQ) for a
 visual and step-by-step explanation of the dynamic programming approach.

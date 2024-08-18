@@ -8,11 +8,12 @@ correct but also efficient. Below are the key concepts and resources necessary t
 successfully.
 
 ## Concepts Needed:
-1. Greedy Algorithms:
-Understanding how greedy algorithms work and why they are suitable for the coin change
-problem.
-Recognizing the limitations of greedy algorithms and scenarios where they might not provide
-the optimal solution.
+
+1. **Greedy Algorithms:**
+
+- Understanding how greedy algorithms work and why they are suitable for the coin change problem.
+- Recognizing the limitations of greedy algorithms and scenarios where they might not provide the optimal solution.
+
 2. Dynamic Programming:
 Basic principles of dynamic programming as a method to solve optimization problems.
 The concept of overlapping subproblems and optimal substructure in the context of the coin

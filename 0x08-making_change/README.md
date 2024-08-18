@@ -15,8 +15,8 @@ For the “0. Change comes from within” project, you will tackle a classic pro
     - The concept of overlapping subproblems and optimal substructure in the context of the coin change problem.
 
 3. **Algorithmic Complexity:**
-- Analyzing the time and space complexity of algorithms.
-- Striving for solutions with lower complexity to meet runtime constraints.
+    - Analyzing the time and space complexity of algorithms.
+    - Striving for solutions with lower complexity to meet runtime constraints.
 
 4. **Problem-Solving Strategies:**
 Breaking down the problem into smaller, manageable sub-problems.

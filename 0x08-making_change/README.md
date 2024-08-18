@@ -6,7 +6,8 @@ minimum number of coins required to make up a given total amount, given a list o
 project challenges you to apply your understanding of algorithms to devise a solution that is not only
 correct but also efficient. Below are the key concepts and resources necessary to complete this project
 successfully.
-Concepts Needed:
+
+## Concepts Needed:
 1. Greedy Algorithms:
 Understanding how greedy algorithms work and why they are suitable for the coin change
 problem.

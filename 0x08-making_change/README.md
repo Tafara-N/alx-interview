@@ -39,9 +39,10 @@ For the “0. Change comes from within” project, you will tackle a classic pro
 
     - [Coin Change | DP-7]()
     - [Greedy Algorithm to find Minimum number of Coins]()
-YouTube Tutorials:
-Dynamic Programming - Coin Change Problem (/rltoken/qFEdwwtAVyJr9NLHDZDsUQ) for a
-visual and step-by-step explanation of the dynamic programming approach.
+
+- **YouTube Tutorials:**
+
+    - [Dynamic Programming - Coin Change Problem]() for a visual and step-by-step explanation of the dynamic programming approach.
 
 By thoroughly understanding these concepts and utilizing the provided resources, you will be well-prepared
 to tackle the coin change problem. You will need to decide whether a greedy algorithm suffices for your

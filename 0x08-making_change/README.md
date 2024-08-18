@@ -74,15 +74,9 @@ Given a pile of `coins` of different values, determine the fewest number of coin
 - `coins` is a list of the values of the coins in your possession
 - The value of a coin will always be an integer greater than `0`
 - You can assume you have an infinite number of each denomination of coin in the list
-Score: 87.5% (Checks completed: 87.5%)
+- Your solution’s runtime will be evaluated in this task
 
-
-
-(/)
-
-Copyright © 2024 ALX, All rights reserved.
-
-Your solution’s runtime will be evaluated in this task
+```bash
 carrie@ubuntu:~/0x08-making_change$ cat 0-main.py
 #!/usr/bin/python3
 """
@@ -92,13 +86,15 @@ makeChange = __import__('0-making_change').makeChange
 print(makeChange([1, 2, 25], 37))
 print(makeChange([1256, 54, 48, 16, 102], 1453))
 carrie@ubuntu:~/0x08-making_change$
+```
 
+```bash
 carrie@ubuntu:~/0x08-making_change$ ./0-main.py
 7
 -1
 carrie@ubuntu:~/0x08-making_change$
+```
 
- Done? Check your code Ask for a new correction QA Review
 **Repo:**
 - GitHub repository: `alx-interview`
 - Directory: `0x08-making_change`

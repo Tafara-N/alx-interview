@@ -29,9 +29,11 @@ For the “0. Change comes from within” project, you will tackle a classic pro
     - Manipulating lists and using list comprehensions.
     - Implementing functions with efficient looping and conditional statements.
 
-Resources:
-Python Official Documentation:
-More Control Flow Tools (for loops, if statements) (/rltoken/oVyaCk8erLwLPj96P-qlCw)
+# Resources:
+
+- **Python Official Documentation:**
+
+    - [More Control Flow Tools(for loops, if statements)]()
 GeeksforGeeks Articles:
  Weight: 1
 

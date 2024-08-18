@@ -11,8 +11,8 @@ For the “0. Change comes from within” project, you will tackle a classic pro
 
 2. **Dynamic Programming:**
 
-- Basic principles of dynamic programming as a method to solve optimization problems.
-- The concept of overlapping subproblems and optimal substructure in the context of the coin change problem.
+    - Basic principles of dynamic programming as a method to solve optimization problems.
+    - The concept of overlapping subproblems and optimal substructure in the context of the coin change problem.
 
 3. **Algorithmic Complexity:**
 Analyzing the time and space complexity of algorithms.

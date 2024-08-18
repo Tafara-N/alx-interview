@@ -6,8 +6,8 @@ For the “0. Change comes from within” project, you will tackle a classic pro
 
 1. **Greedy Algorithms:**
 
-- Understanding how greedy algorithms work and why they are suitable for the coin change problem.
-- Recognizing the limitations of greedy algorithms and scenarios where they might not provide the optimal solution.
+    - Understanding how greedy algorithms work and why they are suitable for the coin change problem.
+    - Recognizing the limitations of greedy algorithms and scenarios where they might not provide the optimal solution.
 
 2. Dynamic Programming:
 Basic principles of dynamic programming as a method to solve optimization problems.

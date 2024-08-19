@@ -48,7 +48,7 @@ By thoroughly understanding these concepts and utilizing the provided resources,
 
 # Additional Resources
 
-- [Mock Technical Interview]()
+- [Mock Technical Interview](https://www.youtube.com/watch?v=9BSSIsJ-fWg)
 
 # Requirements
 

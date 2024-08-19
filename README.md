@@ -7,6 +7,7 @@ ___
 
 - [Lockboxes](0x01-lockboxes/README.md)
 - [Log Parsing](0x03-log_parsing/README.md)
+- [Making Change](0x08-making_change/README.md)
 - [Minimum Operations](0x02-minimum_operations/README.md)
 - [N-Queens](0x05-nqueens/README.md)
 - [Pascal Triangle](0x00-pascal_triangle/README.md)
@@ -17,8 +18,8 @@ ___
 
 - [Requirements](#requirements)
 
-
 ## Description
+___
 
 1. # Pascal's Triangle
 
@@ -84,6 +85,7 @@ To successfully complete this project, you should revise the following Python co
     - Evaluate and apply optimizations to improve the performance of the solution.
 
 By revisiting these concepts, you will be well-prepared to tackle the challenges of implementing Pascal’s Triangle in Python, applying both your mathematical understanding and programming skills to develop an efficient and effective solution.
+___
 
 2. # Lockboxes
 
@@ -128,6 +130,7 @@ By reviewing these concepts and utilizing these resources, you will be well-equi
 ## Additional Resources
 
 - [Mock Technical Interview](https://intranet.alxswe.com/rltoken/TJ0FJhWeEGolIqMpwBn7Pg)
+___
 
 3. # Log Parsing
 
@@ -163,6 +166,7 @@ By studying these concepts and utilizing the resources provided, you will be wel
 
 # Additional Resources
 - [Mock Technical Interview](https://intranet.alxswe.com/rltoken/VlOaXKkbecRYdnTLaLU1lg)
+____
 
 4. # UTF-8 Validation
 
@@ -196,6 +200,7 @@ By studying these concepts and utilizing the resources provided, you will be equ
 
 ## Additional Resource
 - [Mock Technical Interview](https://intranet.alxswe.com/rltoken/X1lZqipeyegt8pbQ9aXSFQ)
+___
 
 5. # N Queens
 
@@ -227,6 +232,7 @@ By studying these concepts and utilizing the resources provided, you will be equ
 
 # Additional Resources
 - [Mock Interview](https://intranet.alxswe.com/rltoken/aQ3uJmGVeZa-R6B1jYTjXg)
+___
 
 6. # Star Wars API
 
@@ -268,6 +274,7 @@ By familiarizing yourself with these concepts and resources, you will be able to
 
 # Additional Resources
 - [Mock Technical Interview](https://intranet.alxswe.com/rltoken/du6hlPQm6qi4A7eEursNhQ)
+___
 
 7. # Rotate 2D Matrix
 
@@ -319,6 +326,9 @@ By understanding these concepts and utilizing the provided resources, you will b
 
 # Additional Resources
 - [Mock Technical Interview](https://intranet.alxswe.com/rltoken/4GPWA9C2AJHtpdGxuIHEPA)
+___
+
+8. # Making Change
 
 ## Requirements
 

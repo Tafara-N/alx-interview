@@ -37,7 +37,7 @@ For the “0. Change comes from within” project, you will tackle a classic pro
 
 - **GeeksforGeeks Articles:**
 
-    - [Coin Change | DP-7]()
+    - [Coin Change | DP-7](https://www.geeksforgeeks.org/coin-change-dp-7/)
     - [Greedy Algorithm to find Minimum number of Coins]()
 
 - **YouTube Tutorials:**

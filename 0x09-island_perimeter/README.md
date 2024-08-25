@@ -59,7 +59,7 @@ All your files must be executable
 Tasks
 0. Island Perimeter mandatory
 
-Create a function def island_perimeter(grid): that returns the perimeter of the island described in grid :
+Create a function `def island_perimeter(grid):` that returns the perimeter of the island described in `grid` :
 
 - `grid` is a list of list of integers:
 - 0 represents water

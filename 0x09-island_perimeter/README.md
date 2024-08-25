@@ -3,10 +3,13 @@ For the “0. Island Perimeter” project, you will need to apply your knowledge
 grid context. The goal is to calculate the perimeter of a single island in a grid, where the grid is represented
 by a 2D array of integers. Understanding how to navigate and analyze 2D arrays and apply logical
 operations to determine the conditions for perimeter calculation is crucial for this task.
-Concepts Needed:
-1. 2D Arrays (Matrices):
-Accessing and iterating over elements in a 2D array.
-Understanding how to navigate through adjacent cells (horizontally and vertically).
+
+## Concepts Needed:
+
+1. **2D Arrays (Matrices):**
+
+    - Accessing and iterating over elements in a 2D array.
+    - Understanding how to navigate through adjacent cells (horizontally and vertically).
 2. Conditional Logic:
 Applying conditions to determine whether a cell contributes to the perimeter of the island.
 3. Counting Techniques:

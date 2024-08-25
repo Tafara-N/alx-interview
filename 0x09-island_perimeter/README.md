@@ -18,13 +18,16 @@ their contribution to the perimeter.
 Nested loops for iterating over grid cells.
 Conditional statements to check the status of adjacent cells.
 
-Resources:
-Python Official Documentation:
-Nested Lists (/rltoken/8SPalOgoGDWQChVbct0p1g): Understanding how to work with lists
+# Resources:
+
+- **Python Official Documentation:**
+
+    - [Nested Lists](https://docs.python.org/3/tutorial/datastructures.html#nested-list-comprehensions): Understanding how to work with lists
 within lists in Python.
-GeeksforGeeks Articles:
-Python Multi-dimensional Arrays (/rltoken/IYcYmeVlCfF-F7Szn1fzfQ): A guide to working with
-2D arrays in Python effectively.
+
+- **GeeksforGeeks Articles:**
+
+    - [Python Multi-dimensional Arrays](https://www.geeksforgeeks.org/python-using-2d-arrays-lists-the-right-way/): A guide to working with 2D arrays in Python effectively.
 
 - **TutorialsPoint:**
 

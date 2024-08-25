@@ -25,15 +25,11 @@ within lists in Python.
 GeeksforGeeks Articles:
 Python Multi-dimensional Arrays (/rltoken/IYcYmeVlCfF-F7Szn1fzfQ): A guide to working with
 2D arrays in Python effectively.
-TutorialsPoint:
- Weight: 1
 
-
+- **TutorialsPoint:**
 
-(/)
+    - [Python Lists](https://www.tutorialspoint.com/python/python_lists.htm): Explains how to create, access, and manipulate lists in Python, which is essential for working with a grid.
 
-Python Lists (/rltoken/TZ8UtQaRxN5cFf8c1TB-rw): Explains how to create, access, and
-manipulate lists in Python, which is essential for working with a grid.
 - **YouTube Tutorials:**
 
     - [Python 2D arrays and lists](https://www.youtube.com/watch?v=aNzepGawwCI)

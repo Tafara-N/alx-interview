@@ -34,14 +34,11 @@ TutorialsPoint:
 
 Python Lists (/rltoken/TZ8UtQaRxN5cFf8c1TB-rw): Explains how to create, access, and
 manipulate lists in Python, which is essential for working with a grid.
-YouTube Tutorials:
-Python 2D arrays and lists (/rltoken/H7SwlI_XYDpwYonNYKXQfg)
+- **YouTube Tutorials:**
 
-By understanding these concepts and utilizing the provided resources, you will be equipped to approach
-the problem methodically. You’ll need to iterate over the grid, apply logical operations to identify the
-perimeter of the island, and account for the specific conditions described in the task. This project not only
-tests your algorithmic thinking but also reinforces your ability to manipulate data structures and apply
-logical reasoning to solve problems.
+    - [Python 2D arrays and lists](https://www.youtube.com/watch?v=aNzepGawwCI)
+
+By understanding these concepts and utilizing the provided resources, you will be equipped to approach the problem methodically. You’ll need to iterate over the grid, apply logical operations to identify the perimeter of the island, and account for the specific conditions described in the task. This project not only tests your algorithmic thinking but also reinforces your ability to manipulate data structures and apply logical reasoning to solve problems.
 
 # Additional Resources
 - [Mock Technical Interviews](https://www.youtube.com/watch?v=fFgEM6CMQc4)

@@ -20,11 +20,13 @@ operations to determine the conditions for perimeter calculation is crucial for 
     - Developing a method to count the edges that contribute to the island’s perimeter.
 
 4. **Problem-Solving Strategies:**
-Breaking down the problem into smaller tasks, such as identifying land cells and calculating
-their contribution to the perimeter.
-5. Python Programming:
-Nested loops for iterating over grid cells.
-Conditional statements to check the status of adjacent cells.
+
+    - Breaking down the problem into smaller tasks, such as identifying land cells and calculating their contribution to the perimeter.
+
+5. **Python Programming:**
+
+    - Nested loops for iterating over grid cells.
+    - Conditional statements to check the status of adjacent cells.
 
 # Resources:
 

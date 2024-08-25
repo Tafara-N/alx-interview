@@ -10,9 +10,12 @@ operations to determine the conditions for perimeter calculation is crucial for 
 
     - Accessing and iterating over elements in a 2D array.
     - Understanding how to navigate through adjacent cells (horizontally and vertically).
-2. Conditional Logic:
-Applying conditions to determine whether a cell contributes to the perimeter of the island.
-3. Counting Techniques:
+
+2. **Conditional Logic:**
+
+    - Applying conditions to determine whether a cell contributes to the perimeter of the island.
+
+3. **Counting Techniques:**
 Developing a method to count the edges that contribute to the island’s perimeter.
 4. Problem-Solving Strategies:
 Breaking down the problem into smaller tasks, such as identifying land cells and calculating

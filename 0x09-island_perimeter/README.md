@@ -42,8 +42,9 @@ the problem methodically. You’ll need to iterate over the grid, apply logical 
 perimeter of the island, and account for the specific conditions described in the task. This project not only
 tests your algorithmic thinking but also reinforces your ability to manipulate data structures and apply
 logical reasoning to solve problems.
-Additional Resources
-Mock Technical Interviews (/rltoken/9ZYjQgC9HvOLZiHxmgd89Q)
+
+# Additional Resources
+- [Mock Technical Interviews](https://www.youtube.com/watch?v=fFgEM6CMQc4)
 
 # Requirements
 

@@ -5,6 +5,7 @@
 - [Description](#description)
 ___
 
+- [Island Perimeter](0x09-island_perimeter/README.md)
 - [Lockboxes](0x01-lockboxes/README.md)
 - [Log Parsing](0x03-log_parsing/README.md)
 - [Making Change](0x08-making_change/README.md)

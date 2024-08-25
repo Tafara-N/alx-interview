@@ -44,8 +44,10 @@ tests your algorithmic thinking but also reinforces your ability to manipulate d
 logical reasoning to solve problems.
 Additional Resources
 Mock Technical Interviews (/rltoken/9ZYjQgC9HvOLZiHxmgd89Q)
-Requirements
-General
+
+# Requirements
+
+## General
 Allowed editors: vi , vim , emacs
 All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.4.3)
 All your files should end with a new line

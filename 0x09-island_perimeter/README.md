@@ -57,7 +57,8 @@ All modules and functions must be documented
 All your files must be executable
 
 Tasks
-0. Island Perimeter mandatory
+
+### 0. Island Perimeter mandatory
 
 Create a function `def island_perimeter(grid):` that returns the perimeter of the island described in `grid` :
 

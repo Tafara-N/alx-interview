@@ -133,7 +133,50 @@ By reviewing these concepts and utilizing these resources, you will be well-equi
 - [Mock Technical Interview](https://intranet.alxswe.com/rltoken/TJ0FJhWeEGolIqMpwBn7Pg)
 ___
 
-3. # Log Parsing
+3. # Minimum Operations
+
+For this project, you will need to understand several key algorithmic and mathematical concepts to devise a solution that efficiently calculates the minimum number of operations to achieve a given number of characters using only “Copy All” and “Paste” operations. Here is a list of concepts and resources that will be helpful:
+
+# Concepts Needed:
+
+1. **Dynamic Programming:**
+    - Familiarity with dynamic programming can help in breaking down the problem into simpler subproblems and building up the solution.
+    - [Dynamic Programming (GeeksforGeeks)](https://intranet.alxswe.com/rltoken/l3JYgicNQw2Ue1Kg9jV80Q)
+
+2. **Prime Factorization:**
+    - Understanding how to perform prime factorization is crucial since the problem can be reduced to finding the sum of the prime factors of the target number n.
+    - [Prime Factorization (Khan Academy)](https://intranet.alxswe.com/rltoken/cFcADpVYRCl5pdut-Lemmg)
+
+3. **Code Optimization:**
+    - Knowing how to approach problems from an optimization perspective can be useful in finding the most efficient solution.
+    - [How to optimize Python code](https://intranet.alxswe.com/rltoken/98ZF5bRckUKror6pGJQlHQ)
+
+4. **Greedy Algorithms:**
+    - The problem can also be approached with greedy algorithms, choosing the best option at each step.
+    - [Greedy Algorithms (GeeksforGeeks)](https://intranet.alxswe.com/rltoken/k6-mba0b4nayJi0VqYhKjQ)
+
+5. **Basic Python Programming:**
+    - Proficiency in Python, including loops, conditionals, and functions, is necessary to implement the solution.
+    - [Python Functions (Python Official Documentation)](https://intranet.alxswe.com/rltoken/ao3SJVl4yY1SfugfVa3anw)
+
+By studying these concepts and utilizing the resources provided, you will be equipped to tackle the “Minimum Operations” problem effectively, applying both mathematical reasoning and programming skills to find the most efficient solution.
+
+# Additional Resources
+- [Mock Technical Interview](https://intranet.alxswe.com/rltoken/HX0vuVl1V-9T4vvh8NDCyw)
+
+# Requirements
+
+## General
+- Allowed editors: `vi`, `vim`, `emacs`
+- All your files will be interpreted/compiled on Ubuntu 20.04 LTS using `python3` (version `3.4.3`)
+- All your files should end with a new line
+- The first line of all your files should be exactly `#!/usr/bin/python3`
+- A `README.md` file, at the root of the folder of the project, is mandatory
+- Your code should be documented
+- Your code should use the `PEP 8` style (version 1.7.x)
+- All your files must be executable
+
+4. # Log Parsing
 
 For the “0x03. Log Parsing” project, you will need to apply your knowledge of Python programming, focusing on parsing and processing data streams in real-time. This project involves reading from standard input (stdin), handling data in a specific format, and performing calculations based on the input data. Here’s a list of concepts and resources that you might find useful:
 
@@ -169,7 +212,7 @@ By studying these concepts and utilizing the resources provided, you will be wel
 - [Mock Technical Interview](https://intranet.alxswe.com/rltoken/VlOaXKkbecRYdnTLaLU1lg)
 ____
 
-4. # UTF-8 Validation
+5. # UTF-8 Validation
 
 For the “0x04. UTF-8 Validation” project, you will need to apply your knowledge in bitwise operations, understanding of the UTF-8 encoding scheme, and Python programming skills to validate whether a given dataset represents a valid UTF-8 encoding. Here’s a list of concepts and resources that will be helpful:
 
@@ -203,7 +246,7 @@ By studying these concepts and utilizing the resources provided, you will be equ
 - [Mock Technical Interview](https://intranet.alxswe.com/rltoken/X1lZqipeyegt8pbQ9aXSFQ)
 ___
 
-5. # N Queens
+6. # N Queens
 
 The “0x05. N queens” project is a classic problem in computer science and mathematics, known for its application of the backtracking algorithm to place N non-attacking queens on an N×N chessboard. To successfully complete this project, you will need to understand several key concepts and have access to resources that will help you grasp the necessary algorithms and techniques.
 
@@ -235,7 +278,7 @@ By studying these concepts and utilizing the resources provided, you will be equ
 - [Mock Interview](https://intranet.alxswe.com/rltoken/aQ3uJmGVeZa-R6B1jYTjXg)
 ___
 
-6. # Star Wars API
+7. # Star Wars API
 
 The “0. Star Wars Characters” project requires you to interact with an external API to fetch and display
 information about Star Wars characters based on the movie ID provided as an argument. To successfully
@@ -277,7 +320,7 @@ By familiarizing yourself with these concepts and resources, you will be able to
 - [Mock Technical Interview](https://intranet.alxswe.com/rltoken/du6hlPQm6qi4A7eEursNhQ)
 ___
 
-7. # Rotate 2D Matrix
+8. # Rotate 2D Matrix
 
 For the “0. Rotate 2D Matrix” project, you are tasked with implementing an in-place algorithm to rotate an n x n 2D matrix by 90 degrees clockwise. This challenge requires a good understanding of matrix manipulation and in-place operations in Python. Below are the key concepts and resources that you need to grasp in order to successfully complete this project.
 
@@ -329,7 +372,7 @@ By understanding these concepts and utilizing the provided resources, you will b
 - [Mock Technical Interview](https://intranet.alxswe.com/rltoken/4GPWA9C2AJHtpdGxuIHEPA)
 ___
 
-8. # Making Change
+9. # Making Change
 
 For the “0. Change comes from within” project, you will tackle a classic problem from the domain of dynamic programming and greedy algorithms: the coin change problem. The objective is to find the minimum number of coins required to make up a given total amount, given a list of coin denominations. This project challenges you to apply your understanding of algorithms to devise a solution that is not only correct but also efficient. Below are the key concepts and resources necessary to complete this project successfully.
 
@@ -394,6 +437,71 @@ ___
 - A README.md file, at the root of the folder of the project, is mandatory
 - Your code should be documented
 - Your code should use the `PEP 8` style (version 1.7.x)
+- All your files must be executable
+
+10. # Island Perimeter
+
+For the “0. Island Perimeter” project, you will need to apply your knowledge of algorithms, data structures (specifically matrices or 2D lists), and iterative or conditional logic to solve a geometric problem within a grid context. The goal is to calculate the perimeter of a single island in a grid, where the grid is represented by a 2D array of integers. Understanding how to navigate and analyze 2D arrays and apply logical operations to determine the conditions for perimeter calculation is crucial for this task.
+
+## Concepts Needed:
+
+1. **2D Arrays (Matrices):**
+
+    - Accessing and iterating over elements in a 2D array.
+    - Understanding how to navigate through adjacent cells (horizontally and vertically).
+
+2. **Conditional Logic:**
+
+    - Applying conditions to determine whether a cell contributes to the perimeter of the island.
+
+3. **Counting Techniques:**
+
+    - Developing a method to count the edges that contribute to the island’s perimeter.
+
+4. **Problem-Solving Strategies:**
+
+    - Breaking down the problem into smaller tasks, such as identifying land cells and calculating their contribution to the perimeter.
+
+5. **Python Programming:**
+
+    - Nested loops for iterating over grid cells.
+    - Conditional statements to check the status of adjacent cells.
+
+# Resources:
+
+- **Python Official Documentation:**
+
+    - [Nested Lists](https://docs.python.org/3/tutorial/datastructures.html#nested-list-comprehensions): Understanding how to work with lists
+within lists in Python.
+
+- **GeeksforGeeks Articles:**
+
+    - [Python Multi-dimensional Arrays](https://www.geeksforgeeks.org/python-using-2d-arrays-lists-the-right-way/): A guide to working with 2D arrays in Python effectively.
+
+- **TutorialsPoint:**
+
+    - [Python Lists](https://www.tutorialspoint.com/python/python_lists.htm): Explains how to create, access, and manipulate lists in Python, which is essential for working with a grid.
+
+- **YouTube Tutorials:**
+
+    - [Python 2D arrays and lists](https://www.youtube.com/watch?v=aNzepGawwCI)
+
+By understanding these concepts and utilizing the provided resources, you will be equipped to approach the problem methodically. You’ll need to iterate over the grid, apply logical operations to identify the perimeter of the island, and account for the specific conditions described in the task. This project not only tests your algorithmic thinking but also reinforces your ability to manipulate data structures and apply logical reasoning to solve problems.
+
+# Additional Resources
+- [Mock Technical Interviews](https://www.youtube.com/watch?v=fFgEM6CMQc4)
+
+# Requirements
+
+## General
+- Allowed editors: `vi` , `vim` , `emacs`
+- All your files will be interpreted/compiled on Ubuntu 20.04 LTS using `python3` (version `3.4.3`)
+- All your files should end with a new line
+- The first line of all your files should be exactly `#!/usr/bin/python3`
+- A `README.md` file, at the root of the folder of the project, is mandatory
+- Your code should use the `PEP 8` style (version `1.7`)
+- You are not allowed to import any module
+- All modules and functions must be documented
 - All your files must be executable
 
 ## JavaScript

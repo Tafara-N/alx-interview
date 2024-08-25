@@ -99,6 +99,6 @@ guillaume@ubuntu:~/0x09$
 ```
 
 **Repo:**
-- GitHub repository: alx-interview
-- Directory: 0x09-island_perimeter
+- GitHub repository: `alx-interview`
+- Directory: `0x09-island_perimeter`
 - File: `0-island_perimeter.py`

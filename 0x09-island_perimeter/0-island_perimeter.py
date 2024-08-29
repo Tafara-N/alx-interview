@@ -4,6 +4,7 @@
 Function returns the perimeter of the island
 """
 
+
 def island_perimeter(grid):
     """
     Function returns the perimeter of the island

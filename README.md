@@ -99,12 +99,12 @@ For this project, you will need a solid understanding of several key concepts in
 1. **Lists and List Manipulation:**
 
     - Understanding how to work with lists, including accessing elements, iterating over lists, and modifying lists dynamically.
-    - [Python Lists (Python Official Documentation)](https://intranet.alxswe.com/rltoken/TtGNy9p1p1d0O5G1rdY1Aw)
+    - [Python Lists (Python Official Documentation)](https://docs.python.org/3/tutorial/datastructures.html)
 
 2. **Graph Theory Basics:**
 
     - Although not explicitly required, knowledge of graph theory (especially concepts related to traversal algorithms like Depth-First Search or Breadth-First Search) can be very helpful in solving this problem, as the boxes and keys can be thought of as nodes and edges in a graph.
-    - [Graph Theory (Khan Academy)](https://intranet.alxswe.com/rltoken/eVcYI8g-6nF0Na46xnRdhw)
+    - [Graph Theory (Khan Academy)](https://www.khanacademy.org/computing/computer-science/algorithms/graph-representation/a/representing-graphs)
 
 3. **Algorithmic Complexity:**
 

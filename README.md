@@ -114,7 +114,7 @@ For this project, you will need a solid understanding of several key concepts in
 4. **Recursion:**
 
     - Some solutions might require a recursive approach to traverse through the boxes and keys.
-    - [Recursion in Python (Real Python)](https://intranet.alxswe.com/rltoken/zpEuvv0l9EHohIx-HwiAAA)
+    - [Recursion in Python (Real Python)](https://realpython.com/python-recursion/)
 
 5. **Queue and Stack:**
 

@@ -32,7 +32,7 @@ ___
 
 ## Additional Resources
 
-- [Mock Technical Interview](https://intranet.alxswe.com/rltoken/vKf7Spm4xxFMom3x4Jx52g)
+- [Mock Technical Interview](https://www.youtube.com/watch?v=1qw5ITr3k9E)
 
 ### *Must Know*
 

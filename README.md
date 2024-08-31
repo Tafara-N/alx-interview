@@ -130,7 +130,7 @@ By reviewing these concepts and utilizing these resources, you will be well-equi
 
 ## Additional Resources
 
-- [Mock Technical Interview](https://intranet.alxswe.com/rltoken/TJ0FJhWeEGolIqMpwBn7Pg)
+- [Mock Technical Interview](https://www.youtube.com/watch?v=V8DGdPkBBxg)
 ___
 
 3. # Minimum Operations

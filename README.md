@@ -124,7 +124,7 @@ For this project, you will need a solid understanding of several key concepts in
 6. **Set Operations:**
 
     - Understanding how to use sets for keeping track of visited boxes and available keys can optimize the search process.
-    - [Python Sets (Python Official Documentation)](https://intranet.alxswe.com/rltoken/zkmtaPqAbKyxx41kRw7ulA)
+    - [Python Sets (Python Official Documentation)](https://docs.python.org/3/tutorial/datastructures.html#sets)
 
 By reviewing these concepts and utilizing these resources, you will be well-equipped to develop an efficient solution for this project, applying both your algorithmic thinking and Python programming skills.
 

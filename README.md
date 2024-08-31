@@ -26,9 +26,9 @@ ___
 
 ## Resources
 
-- [What is Pascal’s triangle](https://intranet.alxswe.com/rltoken/F458nFkW9StJum2zPI4khg)
-- [Pascal’s Triangle - Numberphile](https://intranet.alxswe.com/rltoken/XXMN2RVCCGcF5l5ZnUIv8Q)
-- [What are Python Algorithms](https://intranet.alxswe.com/rltoken/q5v0xbgrVxG4Nf-fV-BW2w)
+- [What is Pascal’s triangle](https://www.cuemath.com/algebra/pascals-triangle/)
+- [Pascal’s Triangle - Numberphile](https://www.youtube.com/watch?v=0iMtlus-afo)
+- [What are Python Algorithms](https://builtin.com/data-science/python-algorithms)
 
 ## Additional Resources
 

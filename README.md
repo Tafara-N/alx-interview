@@ -109,7 +109,7 @@ For this project, you will need a solid understanding of several key concepts in
 3. **Algorithmic Complexity:**
 
     - Understanding the time and space complexity of your solution is important, as it can help in writing more efficient algorithms.
-    - [Big O Notation (GeeksforGeeks)](https://intranet.alxswe.com/rltoken/01qym1qAJUkLrb47PvqnKg)
+    - [Big O Notation (GeeksforGeeks)](https://www.geeksforgeeks.org/asymptotic-notation-and-analysis-based-on-input-size-of-algorithms/)
 
 4. **Recursion:**
 

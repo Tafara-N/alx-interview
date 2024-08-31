@@ -512,7 +512,7 @@ By understanding these concepts and utilizing the provided resources, you will b
 - All your files should end with a new line
 - The first line of all your files should be exactly `#!/usr/bin/node`
 - A `README.md` file, at the root of the folder of the project, is mandatory
-- Your code should be `semistandard` compliant. [Rules of Standard](https://intranet.alxswe.com/rltoken/9P3gH5mVdJCEKL87E-IMaA) + [semicolons on top](https://intranet.alxswe.com/rltoken/WjMvQfBMKBdsNUuHyg55Dw). Also as reference: [AirBnB style](https://intranet.alxswe.com/rltoken/Xp81RT-Sfi7uE_kNCSXunw)
+- Your code should be `semistandard` compliant. [Rules of Standard](https://standardjs.com/rules.html) + [semicolons on top](https://github.com/standard/semistandard). Also as reference: [AirBnB style](https://github.com/airbnb/javascript)
 - All your files must be executable
 - The length of your files will be tested using `wc`
 - You are not allowed to use `var`
@@ -528,7 +528,7 @@ $ sudo apt-get install -y nodejs
 
 **Install semi-standard**
 
-[Documentation](https://intranet.alxswe.com/rltoken/WjMvQfBMKBdsNUuHyg55Dw)
+[Documentation](https://github.com/standard/semistandard)
 
 ```bash
 $ sudo npm install semistandard --global
@@ -536,7 +536,7 @@ $ sudo npm install semistandard --global
 
 **Install `request` module and use it**
 
-[Documentation](https://intranet.alxswe.com/rltoken/BWz2gc45S-nZaxEY6GA6Zw)
+[Documentation](https://github.com/request/request)
 
 ```bash
 $ sudo npm install request --global

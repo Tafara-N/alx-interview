@@ -30,7 +30,7 @@ For this project, you will need to leverage your understanding of prime numbers,
     - [Game Theory Introduction](https://www.investopedia.com/terms/g/gametheory.asp): A simple explanation of game theory and strategic decision-making.
 
 - **Dynamic Programming:**
-    - [What Is Dynamic Programming With Python Examples](): An introduction to dynamic programming with Python examples.
+    - [What Is Dynamic Programming With Python Examples](https://skerritt.blog/dynamic-programming/): An introduction to dynamic programming with Python examples.
 
 - **Python Official Documentation:**
     - [Python Lists](): Managing lists in Python, useful for tracking the game state.

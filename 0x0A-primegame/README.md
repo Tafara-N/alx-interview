@@ -23,7 +23,7 @@ For this project, you will need to leverage your understanding of prime numbers,
 # Resources:
 
 - **Prime Numbers and Sieve of Eratosthenes:**
-    - [Khan Academy: Prime Numbers](): Introduction to prime numbers.
+    - [Khan Academy: Prime Numbers](https://www.khanacademy.org/math/cc-fourth-grade-math/imp-factors-multiples-and-patterns/imp-prime-and-composite-numbers/v/prime-numbers): Introduction to prime numbers.
     - [Sieve of Eratosthenes in Python](): A step-by-step guide to implementing the sieve algorithm in Python.
 
 - **Game Theory Basics:**

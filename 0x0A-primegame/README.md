@@ -17,8 +17,8 @@ For this project, you will need to leverage your understanding of prime numbers,
     - Using previous results to make future calculations faster, potentially necessary for optimizing the solution for multiple rounds of the game.
 
 5. **Python Programming:**
-Loops and conditional statements for implementing game logic and algorithms.
-Arrays and lists for storing the integers and tracking removed numbers.
+    - Loops and conditional statements for implementing game logic and algorithms.
+    - Arrays and lists for storing the integers and tracking removed numbers.
 
 # Resources:
 

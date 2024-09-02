@@ -24,7 +24,7 @@ For this project, you will need to leverage your understanding of prime numbers,
 
 - **Prime Numbers and Sieve of Eratosthenes:**
     - [Khan Academy: Prime Numbers](https://www.khanacademy.org/math/cc-fourth-grade-math/imp-factors-multiples-and-patterns/imp-prime-and-composite-numbers/v/prime-numbers): Introduction to prime numbers.
-    - [Sieve of Eratosthenes in Python](): A step-by-step guide to implementing the sieve algorithm in Python.
+    - [Sieve of Eratosthenes in Python](https://www.geeksforgeeks.org/sieve-of-eratosthenes/): A step-by-step guide to implementing the sieve algorithm in Python.
 
 - **Game Theory Basics:**
     - [Game Theory Introduction](): A simple explanation of game theory and strategic decision-making.

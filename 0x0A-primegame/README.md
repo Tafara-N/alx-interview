@@ -10,9 +10,9 @@ For this project, you will need to leverage your understanding of prime numbers,
     - An efficient algorithm for finding all prime numbers up to any given limit, which can be particularly useful for this task.
 
 3. **Game Theory:**
-Basic principles of competitive games where players take turns and the concept of optimal play.
-Understanding win conditions and strategies that lead to a win or loss.
-Dynamic Programming/Memoization:
+    - Basic principles of competitive games where players take turns and the concept of optimal play.
+    - Understanding win conditions and strategies that lead to a win or loss.
+    - Dynamic Programming/Memoization:
 
 Using previous results to make future calculations faster, potentially necessary for optimizing the solution for multiple rounds of the game.
 Python Programming:

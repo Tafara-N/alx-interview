@@ -24,13 +24,29 @@ def isWinner(x, nums):
         string: the winner of the game
     """
 
-    if x < 1:
+    if x < 1 or not nums:
         return None
 
-    if x == 1:
-        return "Ben"
+    maria_chances = 0
+    ben_chances = 0
 
-    if x == 2:
-        return "Maria"
+    n = max(nums)
+    primes = [True] * (n + 1)
+    primes[0] = primes[1] = False
 
-    return "Maria"
+    for i in range(2, int(n ** 0.5) + 1):
+        if primes[i]:
+            for j in range(i * i, n + 1, i):
+                primes[j] = False
+
+    for n in nums:
+        count = sum(primes[2:n + 1])
+        if count % 2 == 0:
+            ben_chances += 1
+        else:
+            maria_chances += 1
+
+    if maria_chances == ben_chances:
+        return None
+
+    return "Maria" if maria_chances > ben_chances else "Ben"
